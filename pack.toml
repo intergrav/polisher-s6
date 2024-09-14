@@ -1,0 +1,13 @@
+name = "Polisher-S6"
+author = "devin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bdef4b7a5e2223ddf52bec547d2b34c5ce7312e290ad39fe41f73c4c98732825"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"
