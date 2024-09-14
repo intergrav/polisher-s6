@@ -97,11 +97,6 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
@@ -179,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d24ad43869dfe068c041cc7da0a7ed5926f742d1676eb765ad66515e1e9568a6"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "d08a4130ccbe9a4c8e77022d41ad3188683b31eaaa008e4db9e2f280b46203a7"
 metafile = true
 
 [[files]]
