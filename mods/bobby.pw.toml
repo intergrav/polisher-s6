@@ -1,18 +1,17 @@
 name = "Bobby"
-filename = "bobby-5.1.0+mc1.20.4.jar"
+filename = "bobby-5.2.4+mc1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M08ruV16/versions/jGGumR4a/bobby-5.1.0%2Bmc1.20.4.jar"
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/oeSOphtG/bobby-5.2.4%2Bmc1.21.jar"
 hash-format = "sha1"
-hash = "3c4437a3199629377faeda77e50b01577c4da027"
+hash = "dfa517fdb6e3fd2893f5d40f2c06cf01fb2a5db1"
 
 [update]
 [update.modrinth]
 mod-id = "M08ruV16"
-version = "jGGumR4a"
+version = "oeSOphtG"
 
 [option]
 optional = true
 description = "Lets you see chunks further than the server allows by saving it to your disk. ⚠️ WARNING: Can cause high disk usage! Only use if you have some space on your disk to spare, and if you can even run high render distances."
-default = false
