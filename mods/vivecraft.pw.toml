@@ -1,0 +1,18 @@
+name = "Vivecraft"
+filename = "vivecraft-1.21-1.1.11-b5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/zoaT41Gq/vivecraft-1.21-1.1.11-b5-fabric.jar"
+hash-format = "sha1"
+hash = "f50daf8971fe1765b26082edcf6016cc5459c32f"
+
+[update]
+[update.modrinth]
+mod-id = "wGoQDPN5"
+version = "zoaT41Gq"
+
+[option]
+optional = true
+description = "Lets you see other people's hand movements in VR, and optionally play the game in VR if you have a proper headset. The VR functionality is disabled by default, I do not recommend disabling the mod here."
+default = true
