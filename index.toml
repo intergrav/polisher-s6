@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
@@ -99,11 +99,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
 
 [[files]]
@@ -138,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "89e7dde92d47d33e4430422f77a85ebd54cc5d8a1391758460ab4c6d00f01340"
+hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
 metafile = true
 
 [[files]]
@@ -163,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
+hash = "87d27298a458bed68368b941d7c310ed6e0668b47372f527deeaf60ddec284de"
 metafile = true
 
 [[files]]
@@ -173,12 +168,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a31b71f410616ddc3e99c70744e35d0640eb94ff081af70d1054689f34c2b4b6"
+hash = "7797b3e10400ef30c32c5ecdc028a81a382a6a809f6166f9d11a6e1a3f4b5adb"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d24ad43869dfe068c041cc7da0a7ed5926f742d1676eb765ad66515e1e9568a6"
+hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
 metafile = true
 
 [[files]]
